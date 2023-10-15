@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+body {
+    background-color: black;
+    color: #fcfcfc;
+    margin: 0px;
+}
+
+.header1{
+    display: flex;
+    justify-content: center;
+}
+h1 {
+}
+
+header {
+    text-align: center;
+    font-family: 'Rubik Mono One', sans-serif;
+    flex-wrap: wrap;
+}
+.header2{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.main1 {
+    font-family:'Rubik Mono One', sans-serif ;
+    border-right: 5px solid red;
+    padding-right: 15px;
+}
+
+.main2 {
+    display: flex;
+    width: 50%;
+    gap: 50px;
+}
+
+.main3 {
+    display: flex;
+    justify-content: center;
+}
+
+.main4 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Rubik Mono One', sans-serif;
+    margin-top: 70px;
+}
+
+.main5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px
+}
+
+.main6 {
+    margin-top: 50px;
+    font-family: 'Rubik Mono One', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    flex-wrap: wrap;
+    padding-left:110px;
+    padding-right: 100px;
+    text-align: center;
+}
+
+.main7 {
+    margin-top: 50px;
+    font-family: 'Rubik Mono One', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    flex-wrap: wrap;
+    padding-left:110px;
+    padding-right: 100px;
+    text-align: center;
+}
+
+footer {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: black;
+    background-color: red;
+    text-decoration: red; 
+    text-align: center;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
